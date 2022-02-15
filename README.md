@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Valdir, a Brazilian software developer learning his way around engineering management.
-
-I am currently an Engineering Manager at [BriteCore](https://www.britecore.com/), where I lead a team building the next generation of insurance software.
+I am Valdir, a Brazilian software developer with years of experience leading teams and building software.
 
 My experience includes:
 
