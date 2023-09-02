@@ -12,4 +12,4 @@ My experience includes:
 - :mortar_board:  Teaching and mentoring;
 - :black_nib:  Technical writing.
 
-Check out my blog: [stummjr.org](https://stummjr.org)
+Check out my blog: [stummjr.github.io](https://stummjr.github.io)
